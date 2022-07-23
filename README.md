@@ -1,2 +1,4 @@
-# remoteCl_socket
-Recovery for SSH, highly dangerous
+# Socket Connection Remote Control
+DO NOT USE IT
+
+It was meant to test socket connection.
